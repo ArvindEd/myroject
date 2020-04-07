@@ -8,6 +8,6 @@
 </head>
 <body>
 This is a test jsp from Edureka
-Hi, Arvind here from Edureka!
+Hello, World!
 </body>
 </html>
